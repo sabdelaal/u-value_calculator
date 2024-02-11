@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>U-Value Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>U-Value Calculator</h1>
+
+<form id="uValueForm">
+    <div id="materialsContainer">
+        <!-- Material inputs will be dynamically added here -->
+    </div>
+
+    <button type="button" onclick="addMaterial()">Add Material</button>
+
+    <button type="button" onclick="calculateUValue()">Calculate U-Value</button>
+</form>
+
+<h2>Result:</h2>
+<p id="result"></p>
+
+<script src="materials.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
