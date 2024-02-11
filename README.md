@@ -22,7 +22,7 @@ Before you begin, make sure you have the following:
 ## Getting Started
 
 1. **Download the Script:**
-    - Download the U-Value Calculator script from [GitHub](https://github.com/sabdelaal/uvalue-calculator).
+    - Download the U-Value Calculator script from [GitHub](https://github.com/sabdelaal/u-value_calculat).
 
 2. **Include Scripts in HTML:**
     - Include the necessary scripts in your HTML file:
